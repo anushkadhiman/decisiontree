@@ -12,4 +12,4 @@ Classification of iris dataset using Decision tree
 
 4)We use fit to train the model
 
-5)fnally, we predict the data and test the accuracy of the model.
+5)Finally, we predict the data and test the accuracy of the model.
